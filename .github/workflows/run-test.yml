@@ -1,4 +1,4 @@
-name: CI
+name: RUN-TES
 
 on:
   push:
